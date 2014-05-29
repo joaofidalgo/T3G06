@@ -1,0 +1,12 @@
+3
+90 0 0 3 Telejornal
+10 0 0 0 Publicidade
+180 0 0 4 Volta_a_Franca
+3
+90 0 0 3 Telejornal
+10 0 0 0 Publicidade
+90 0 0 3 Jornal_da_Noite
+3
+90 0 0 3 Telejornal
+120 0 0 1 As_Tardes_da_Julia
+90 0 0 3 Jornal_da_Noite
